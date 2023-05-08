@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+My name is Jan, alias ErrorJan. I am a self-taught software developer from Germany.
+
+## My projects
+- [ARM Assembly Presentation](https://docs.google.com/presentation/d/1xKW8BYRWsfT6Pfx7LosQPivbPIfvwocDn6deSxLL5xY/edit?usp=sharing) A presentation for school to show generally some aspects of ARM Assembly.  
 
 <!--
 **ErrorJan/ErrorJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
