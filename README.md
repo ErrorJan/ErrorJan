@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Jan, alias ErrorJan. I am a self-taught software developer from Germany.
 
-## My projects
+## My projects outside of GitHub
 - [ARM Assembly Presentation](https://docs.google.com/presentation/d/1xKW8BYRWsfT6Pfx7LosQPivbPIfvwocDn6deSxLL5xY/edit?usp=sharing) A presentation for school to show generally some aspects of ARM Assembly.  
 
 <!--
